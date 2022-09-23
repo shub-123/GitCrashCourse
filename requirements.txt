@@ -1,2 +1,5 @@
 fastapi
-ovicorn
+uvicorn
+sqlalchemy
+passlib
+bcrypt
